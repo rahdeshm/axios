@@ -14,3 +14,4 @@ const Interceptors = () => {
   return <h2 className='text-center'>interceptors</h2>;
 };
 export default Interceptors;
+
